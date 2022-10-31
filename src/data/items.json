@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Books",
+    "price": 19.99,
+    "imgUrl": "imgs/books.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Gaming Computer",
+    "price": 1999.99,
+    "imgUrl": "imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bananas",
+    "price": 1.05,
+    "imgUrl": "imgs/bananas.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Regular Bike",
+    "price": 79.99,
+    "imgUrl": "imgs/bike.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Skateboard Shape",
+    "price": 49.99,
+    "imgUrl": "imgs/skateboard_shape.webp"
+  },
+  {
+    "id": 6,
+    "name": "Cellphone",
+    "price": 99.99,
+    "imgUrl": "imgs/cellphone.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Guitar",
+    "price": 49.99,
+    "imgUrl": "imgs/guitar.jpg"
+  }
+]
