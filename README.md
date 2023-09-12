@@ -1,7 +1,5 @@
 ﻿# shopping-cart
 
-Projeto criado em TypeScript e React afim de aprofundar conhecimentos.
-
 ![image](https://github.com/skti-dev/shopping-cart/assets/38216218/de236440-8ed6-4a27-979a-696c05ec8787)
 
 ![image](https://github.com/skti-dev/shopping-cart/assets/38216218/2fda51ee-b1af-468a-92ac-be29233728e2)
